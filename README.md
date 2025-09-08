@@ -32,3 +32,22 @@ This project fetches live weather data using the **OpenWeather API** and display
 
 ---
 
+
+## Future Improvements
+- Add current location weather detection using Geolocation API
+- Show 5-day weather forecast
+- Improve UI with charts and animations
+- Add dark mode
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a pull request.
+
+
+## License
+
+This project is licensed under the MIT License – free to use and modify.
+
+
+💡 Made with ❤️ by Ashish Kumar using HTML, CSS, and JavaScript
